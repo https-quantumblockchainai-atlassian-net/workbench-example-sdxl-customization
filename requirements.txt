@@ -1,5 +1,5 @@
 # python packages to install, one per line
-transformers==4.40.2
+transformers==4.48.0
 diffusers==0.28.0
 ipywidgets==8.1.5
 accelerate==1.0.1
